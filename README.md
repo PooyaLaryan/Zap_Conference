@@ -1,7 +1,8 @@
 for run code : 
-first create virtual env
 
-python -m venv .venv
+in the first create virtual env
+
+python -m venv .venv : 
 
 then active venv and run : 
 
